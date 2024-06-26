@@ -37,3 +37,10 @@ This project is a clone of Apple's iPhone 15 Pro website, built using React.js a
    ```sh
    npm run dev
 
+## demo 
+
+![](https://github.com/MazenSamehR/iPhone/blob/main/public/assets/images/Screenshot%202024-06-26%20144327.png)
+![](https://github.com/MazenSamehR/iPhone/blob/main/public/assets/images/Screenshot%202024-06-26%20144349.png)
+![](https://github.com/MazenSamehR/iPhone/blob/main/public/assets/images/Screenshot%202024-06-26%20144420.png)
+![](https://github.com/MazenSamehR/iPhone/blob/main/public/assets/images/Screenshot%202024-06-26%20144449.png)
+![](https://github.com/MazenSamehR/iPhone/blob/main/public/assets/images/Screenshot%202024-06-26%20144510.png)
