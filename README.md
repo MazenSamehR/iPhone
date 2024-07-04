@@ -25,7 +25,7 @@ This project is a clone of Apple's iPhone 15 Pro website, built using React.js a
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/MazenSamehR/iphone-15-pro-clone.git
+   git clone https://github.com/MazenSamehR/iPhone.git
    ```
 2. Navigate to the project directory:
    ```sh
